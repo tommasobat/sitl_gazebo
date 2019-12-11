@@ -89,7 +89,7 @@ Clone the repository to your computer.
 ```bash
 mkdir -p ~/src
 cd src
-git clone --recursive https://github.com/PX4/sitl_gazebo.git
+git clone --recursive https://github.com/tommasobat/sitl_gazebo
 ```
 
 Create a build folder in the top level of your repository:
